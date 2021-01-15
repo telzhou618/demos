@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot-template" />
+        <module name="springboot-excel-import" />
+        <module name="springboot-interceptor" />
+        <module name="java-test" />
+        <module name="redis-spring-boot-start" />
+        <module name="commons-io" />
+        <module name="springboot-date-formatter" />
+        <module name="springboot-mybatis-crud" />
+        <module name="springboot-redis-start-demo" />
+        <module name="spring-boot-geetest" />
+        <module name="springboot-simple-demos" />
+        <module name="guava-demo" />
+        <module name="springboot-undertow" />
+        <module name="spring-mapper-scanner-demo" />
+        <module name="springboot-sharding-jdbc" />
+        <module name="springboot-actuator" />
+        <module name="springboot-resttemplate" />
+        <module name="commons-lang3" />
+        <module name="springboot-webflux" />
+        <module name="springboot-apollo" />
+        <module name="springboot-cors" />
+        <module name="springboot-validate" />
+        <module name="spring-bean-demos" />
+        <module name="springboot-elastic-job" />
+        <module name="java-design-patterns" />
+        <module name="xmemcached-demo" />
+        <module name="spring-all-demo" />
+        <module name="spring-bean-demo" />
+        <module name="springboot-aop" />
+        <module name="springboot-freemarker" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="commons-io" target="1.8" />
+      <module name="commons-lang3" target="1.8" />
+      <module name="demos" target="1.8" />
+      <module name="guava-demo" target="1.8" />
+      <module name="java-demos" target="1.8" />
+      <module name="java-demos (1)" target="1.8" />
+      <module name="java-demos (1) (spring-boot-demos)" target="1.8" />
+      <module name="java-design-patterns" target="6" />
+      <module name="java-test" target="1.8" />
+      <module name="redis-spring-boot-start" target="1.8" />
+      <module name="spring-all-demo" target="6" />
+      <module name="spring-bean-demo" target="1.8" />
+      <module name="spring-bean-demos" target="1.8" />
+      <module name="spring-boot-geetest" target="1.8" />
+      <module name="spring-demos" target="1.8" />
+      <module name="spring-mapper-scanner-demo" target="6" />
+      <module name="springboot-actuator" target="1.8" />
+      <module name="springboot-aop" target="1.8" />
+      <module name="springboot-apollo" target="1.8" />
+      <module name="springboot-cors" target="1.8" />
+      <module name="springboot-custom-start" target="1.5" />
+      <module name="springboot-date-formatter" target="1.8" />
+      <module name="springboot-elastic-job" target="1.8" />
+      <module name="springboot-excel-import" target="1.8" />
+      <module name="springboot-freemarker" target="1.8" />
+      <module name="springboot-interceptor" target="1.8" />
+      <module name="springboot-mybatis-crud" target="1.8" />
+      <module name="springboot-redis-start-demo" target="1.8" />
+      <module name="springboot-resttemplate" target="1.8" />
+      <module name="springboot-sharding-jdbc" target="1.8" />
+      <module name="springboot-simple-demos" target="1.8" />
+      <module name="springboot-template" target="1.8" />
+      <module name="springboot-undertow" target="1.8" />
+      <module name="springboot-validate" target="1.8" />
+      <module name="springboot-webflux" target="1.8" />
+      <module name="xmemcached-demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-boot-geetest" options="-parameters" />
+      <module name="springboot-actuator" options="-parameters" />
+      <module name="springboot-aop" options="-parameters" />
+      <module name="springboot-apollo" options="-parameters" />
+      <module name="springboot-cors" options="-parameters" />
+      <module name="springboot-date-formatter" options="-parameters" />
+      <module name="springboot-elastic-job" options="-parameters" />
+      <module name="springboot-excel-import" options="-parameters" />
+      <module name="springboot-freemarker" options="-parameters" />
+      <module name="springboot-interceptor" options="-parameters" />
+      <module name="springboot-mybatis-crud" options="-parameters" />
+      <module name="springboot-redis-start-demo" options="-parameters" />
+      <module name="springboot-resttemplate" options="-parameters" />
+      <module name="springboot-sharding-jdbc" options="-parameters" />
+      <module name="springboot-simple-demos" options="-parameters" />
+      <module name="springboot-template" options="-parameters" />
+      <module name="springboot-undertow" options="-parameters" />
+      <module name="springboot-validate" options="-parameters" />
+      <module name="springboot-webflux" options="-parameters" />
+    </option>
+  </component>
+</project>
