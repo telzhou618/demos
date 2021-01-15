@@ -1,2 +1,1 @@
-# demos
-demo
+# spring-cloud-demos
